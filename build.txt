@@ -1,0 +1,3 @@
+displayName = Easier Potions
+author = owbosh
+version = 1.0.0
